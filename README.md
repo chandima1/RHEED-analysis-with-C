@@ -1,6 +1,6 @@
 # RHEED-analysis-with-C++
 
-A time-ecient, 
+A time-efficient, 
 exible, and user friendly computer model has been developed to study the growth
 of thin epitaxial lms with RHEED. The main functionality of the model is its ability to analyze the
 growth of layers and perform dynamical calculations of amplitude of the RHEED specular beam intensity
